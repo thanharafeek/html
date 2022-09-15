@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial scale=1.0">
+	<style>
+		body{
+			background-color: #000;
+			color:#fff;
+		        }
+	</style>
+	<title>Document</title>
+<body>
+	<h1>WELCOM E TO LUMINAR</h1>
+	<h1>congrats you all got job</h1>
+	<h2><strong>NAJIYA</strong> got placed in TCS!!!</h2>
+	<p><b><u><i>paragraph</i></u></b></p>
+	<a href="https://www.google.com">google</a>
+	<br>
+	<button>click me!</button>
+<ul>
+	<li>Apple</li>
+	<li>Orange</li>
+	<li>Pineapple</li>
+</ul>
+<small>small text</small>
+<mark>marked text</mark>
+<del>deleted text</del>
+<ins>inserted text</ins>
+<sub>subscript</sub>
+<sup>superscript</sup>
+<table style>
+<h3 style = "text-align:left;" >Centered Heading</h3>
+<p style="text-lign:left;">Centered paragaraph</p>
+<img src="modi.jpg" width="200" height="200" alt="Modi resigned , India saved"/>
+</body>
+</head>
+</html>
