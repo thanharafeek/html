@@ -1,0 +1,17 @@
+<html>
+<body>
+
+<h2>HTML FORMS</h2>
+
+<form action="/action_page.php">
+	<label for="fname">First Name</label><br>
+	<input type="text" id="fname" name="fname" ><br>
+	<label for="lname">Last Name</label><br>
+	<input type="text" id="lname" name="lname" ><br><br>
+	<input type="submit" value="register">
+</form>
+
+<p>If you click the "submit" button, the form-data will be send to  a page called "/action_page.php"</p>
+
+</body>
+</html>
